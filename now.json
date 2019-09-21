@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "alias": ["coolql.cool/testing-cool-page"],
   "builds": [
     { "src": "index.html", "use": "@now/static" },
     { "src": "*.js", "use": "@now/node" }
